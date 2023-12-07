@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pickUP
+  - Trap
+  - Border
+  - bullet
+  - player
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 2942617245
+    locked: 0
+  - name: middle
+    uniqueID: 291470471
+    locked: 0
+  - name: front
+    uniqueID: 1419342277
+    locked: 0
+  - name: ground
+    uniqueID: 1615894723
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
